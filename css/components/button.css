@@ -1,0 +1,13 @@
+.btn-violet {
+  background-color: rgb(191, 0, 142);
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: white;
+  font-weight: bold;
+  font-family: "Carter One", sans-serif;
+}
+
+.btn-violet:hover {
+  background-color: black;
+  color: white;
+}
